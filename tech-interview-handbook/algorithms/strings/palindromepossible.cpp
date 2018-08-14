@@ -1,9 +1,8 @@
-//Given a list of words, find the word pairs that when 
-//concatenated form a palindrome.
-
+//Find the most efficient way to identify what character is 
+//out of place in a non-palindrome.
 #include<iostream>
-#include <algorithm>
-#include <vector>
+#include<algorithm>
+#include<vector>
 #include<string>
 
 using namespace std;
